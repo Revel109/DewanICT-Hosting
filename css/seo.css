@@ -1,0 +1,25 @@
+.seo_para{
+    height: 1585px;
+	background:url('../img/seo/seo.png') no-repeat center/cover;
+}
+.seo_para img {
+    float: left;
+    padding-top:100px;
+    padding-left: 106px;
+}
+.seo_para p{
+line-height: 33px;
+text-align: justify;
+margin-left: 90px;
+margin-right: 60px;
+padding-top: 90px;
+}
+.seo_para li{
+	padding-left: 106px;
+	line-height: 25px;
+}
+.break_after_para{
+	height: 80px;
+	background: #f2f2f2;
+}
+

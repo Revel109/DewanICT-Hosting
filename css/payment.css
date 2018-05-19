@@ -1,0 +1,215 @@
+
+.payment{
+	position: relative;
+    top: 100%;
+    padding-top:0px;
+}
+.payment h3{
+	padding: 40px 150px;
+	background: #e3e5e8;
+	color: #7c8084;
+	
+}
+.payment_details{
+	padding: 60px 150px;
+	font-size: 18px; 
+}
+.payment_details b{
+	font-size: 40px;
+}
+.pay_pera{
+	font-size: 15px;
+}
+.need_support {
+    position: absolute;
+    text-align: left;
+    top: 400px;
+    right: 100px;
+    background: #ebeff4;
+    width: 284px;
+    padding-left: 18px;
+    padding-top: 5px;
+}
+.need_support p{
+	font-size: 15px;
+}
+.payment_btn{
+
+    background: #0e9ece;
+    color: white;
+    height: 40px;
+    text-decoration: none;
+    width: 200px;
+    border-radius: 12px;
+}
+.payment_btn a{
+	text-decoration:none;
+	color: white;
+}
+
+.payment_method{
+   background: #edf1f2;
+   height: 350px;
+   width: 1100px;
+   padding-left:-10px;
+}
+.row_binder{
+
+	padding-top: 20px;
+	height: 400PX;
+}
+.img-responsive{
+	height: 100px;
+	width: 300px;
+	padding:10px;
+}
+.bank_details{
+	padding: 20px;
+	height: 500px;
+}
+.bank_details b{
+	font-size: 40px;
+	text-align: center;
+	padding-left: 450px;
+}
+.img-responsive2{
+	height: 100px;
+	width: 300px;
+	
+}
+
+.bank_details_1{
+	padding-left: 200px;
+	padding-top: 5px;
+
+}
+
+.bank_details_2{
+    position: absolute;
+    top: 1530px;
+    right: 80px;
+    
+   
+}
+
+
+.bank_details_3,.bank_details_3{
+    position: absolute;
+    top: 1300px;
+    right: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
+}
+.details_info{
+	background: #85ad03;
+	color: white;
+	height: 150px;
+	width: 1050px;
+	padding:20PX 20PX;
+	
+}
+.more_details{
+	padding-left: 120px;
+}
+.payment_btn2{
+
+    background: #0e9ece;
+    color: white;
+    height: 50px;
+    text-decoration: none;
+    width: 250px;
+    float: right;
+    border-radius: 12px;
+
+}
+.payment_btn2 a{
+	text-decoration:none;
+	color: white;
+	font-size: 20px;
+	border-radius: 12px;
+}
+.business_info{
+	background: #1a1a1a;
+	color: white;
+	height: 300px;
+	width: 100%;
+	
+	
+}
+.business_details{
+	width: 1350PX;
+
+}
+.business_details strong{
+	padding-top: 0px;
+	font-size: 40px;
+	padding-left: 250px;
+}
+
+.input_text{
+	width: 600px;
+	padding-left: 30px;
+	line-height: 80px;
+	background: #c0c6d1;
+	font-size: 20px;
+	color: black;
+	border: none;
+}
+.field{
+	padding-left: 200px;
+	padding-top: 10px;
+	width: auto;
+
+	
+}
+.slct{
+	height:82px;
+	width: 120px;
+	background: #c0c6d1;
+	font-size: 20px;
+	color: black;
+	border-left:2px solid #aaa;
+
+}
+.srch_icon {
+    height: 82px;
+    width: 100px;
+    background: #06d69e;
+    display: inline-block;
+    text-align: center;
+    line-height: 85px;
+    font-size: 35px;
+} 	
+.div{
+	float: left;
+	border: none;
+}
+.prices{
+    padding-left:180px;
+	float: left;
+	padding-top: 10px;
+	font-size: 20px;
+}
+.price_btn{
+    background: black;
+	color:red;
+	border-radius: 12px;
+}
+.links2 {
+    background: #005695 none repeat scroll 0 0;
+    box-sizing: border-box;
+    height: 400px;
+    left: 0;
+    position: relative;
+    width: 1350px;
+
+}
+.pay2{
+    position:absolute;
+    text-align: right;
+    left: 550px;
+    top:60px;
+    color: white;
+    font-size: 20px;
+}

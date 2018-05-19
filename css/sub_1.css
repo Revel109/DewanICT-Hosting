@@ -1,0 +1,71 @@
+
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+ul li{
+	float: left;
+	background-color: black;
+	text-align: center;	
+	position:relative;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+	padding:18px;
+}
+ul li a:hover{
+	background-color: green;
+}
+li ul{
+	display:none;
+	position:absolute;
+	left:0;
+	top:100%;
+}
+li li{
+	float:none;
+	width:200px;
+	display:block;
+}
+li:hover ul{
+	display:block;	
+}
+
+.icon1 {
+    
+    
+    
+    
+}
+.icon1  a i{
+   
+    font-size: 25px;
+}
+.sub1{
+	width:33%;
+	
+	
+}
+.sub{
+	
+	width:700px;
+	background:white;
+	color:red; 
+}
+
+.mainmenu ul li .sub{
+	position:absolute;
+	left:0;
+	top:100%;
+	
+}
+.mainmenu ul li:hover .menu1{
+	display:block;
+	
+}
+.mainmenu ul li {
+	position:relative;
+}

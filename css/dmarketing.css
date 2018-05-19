@@ -1,0 +1,216 @@
+.dmarketing{
+	height: 380px;
+	background: url('../img/dmarketing/page_banner_01.jpg');
+	position: relative;
+	top:-65px;
+}
+.dmarketing h1{
+	padding-top: 70px;
+	text-align: center;
+	color: yellow;
+	background-color:gray; 
+}
+.sms_pckgs h1{
+	text-align: center;
+	font-size: 40px;
+}
+.sms_pckgs{
+	margin: auto;
+	width:1170px;
+	overflow: hidden;
+	padding-bottom: 20px;
+}
+
+.sms_pckgs a{
+	text-decoration: none;
+}
+.s{
+float: left;
+margin:0px 10px;
+margin-top: 20px;
+}
+.sms1_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	
+	text-align: center;
+}
+.sms1_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.sms1_sms p{
+	text-align: center;
+}
+.sms_order_btn{
+	color: white;
+	background: red;
+	border-radius: 5px;
+	width:150px;
+	height: 40px;
+	display: block;
+	margin:auto;
+	padding: 10px 15px;
+	font-size: 20px;
+}
+
+.sms_order_btn:hover{
+	color:#fff;
+}
+.sms2_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	height:460px;
+	margin-top: 0px;
+	text-align: center;
+}
+.sms2_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.sms2_sms p{
+	text-align: center;
+}
+.sms3_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	
+	text-align: center;
+}
+.sms3_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.sms4_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	text-align: center;
+}
+.sms4_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.sms_features ul{
+	list-style-type:disc;
+	padding-left: 50px;
+	line-height: 30px;
+}
+.sms_details{
+  overflow: hidden;
+}
+.sms_features,.panel_info{
+	padding-left: 100px;
+}
+.panel_info ul{
+	list-style-type:disc;
+	padding-left: 50px;
+	line-height: 30px;
+}
+
+.panel{
+	float: left;
+	overflow: hidden;
+}
+.panel_info a{
+	width: 300px;
+	float: left;
+	text-decoration: none;
+}
+.auth{
+	float: left;
+	padding-left: 5px;
+	text-align: left;
+	overflow: hidden;
+}
+.our_db ul{
+	padding-left: 160px;
+	list-style-type: disc;
+	line-height: 30px;
+}
+.our_db h1{
+	text-align: center;
+	color: blue;
+	font-size: 40px;
+}
+.our_db span{
+  color: blue;
+  font-size: 15px;
+}
+.our_db p{
+	padding-left:70px;
+
+}
+.our_db{
+	overflow: hidden;
+}
+.sms_cover{
+	padding:50px 100px;
+}
+.sms_cover a{
+padding-top: 10PX;
+}
+.content_btn{
+	color: white;
+	background: #73AA33;
+	border-radius: 5px;
+	width:200px;
+	height: 40px;
+	display: block;
+	font-size: 20px;
+}
+.sms_cover img{
+padding-bottom:30px;
+}
+.question{
+	height: 120px;
+	background: #1D4BAD;
+}
+.question h1{
+	color: white;
+	padding: 50px;
+	padding-left: 150px;
+}
+.cms_button {
+	position: relative;
+    background-color: #8bc34a;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 10px 16px;
+    text-align: center;
+    border-radius: 3px;
+    top:-90px;
+    left:800px;
+}
+.dmarketing_footer{
+    background: #005695 none repeat scroll 0 0;
+    box-sizing: border-box;
+    height: 400px;
+    left: 0;
+    position: relative;
+    right: 103px;
+    width: 1350px;
+
+}
+
+

@@ -1,0 +1,132 @@
+.e_sms_pckgs h1{
+	text-align: center;
+}
+.e_sms_pckgs{
+	margin: auto;
+	width:1170px;
+	overflow: hidden;
+	padding-bottom: 20px;
+}
+
+.e_sms_pckgs a{
+	text-decoration: none;
+}
+.e_sms_pckgs h1{
+	text-align: center;
+	font-size: 40px;
+}
+.e{
+float: left;
+margin:0px 10px;
+margin-top: 20px;
+line-height: 40px;
+
+}
+.e p{
+	border-bottom: .5px solid #EAEAEA;
+}
+.e_sms1_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	
+	text-align: center;
+}
+.e_sms1_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.e_sms1_sms p{
+	text-align: center;
+}
+.e_sms_order_btn{
+	color: white;
+	background: red;
+	border-radius: 5px;
+	width:150px;
+	height: 40px;
+	display: block;
+	margin:auto;
+	font-size: 20px;
+}
+
+.e_sms_order_btn:hover{
+	color:#fff;
+}
+.e_sms2_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	height:440px;
+	text-align: center;
+}
+.e_sms2_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.e_sms2_sms p{
+	text-align: center;
+}
+.e_sms3_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	
+	text-align: center;
+}
+.e_sms3_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.e_sms4_sms{
+	border: 1px solid #EAEAEA;
+	width: 250px;
+	position: relative;
+	text-align: center;
+}
+.e_sms4_sms h2{
+	text-align: center;
+	background: #1D4BAD;
+	color: white;
+	height: 80px;
+	padding-top: 30px;
+	font-size: 20px;
+}
+.our_db_emarketing ul{
+	padding-left: 160px;
+	list-style-type: disc;
+	line-height: 30px;
+}
+.our_db_emarketing h1{
+	text-align: center;
+	color: blue;
+	font-size: 40px;
+}
+.our_db_emarketing span{
+  font-size: 15px;
+  line-height: 40px;
+  position: relative;
+  left: 100px;
+
+}
+.our_db_emarketing p{
+	padding-left:100px;
+	line-height: 30px;
+
+}
+.our_db_emarketing{
+	overflow: hidden;
+	margin-left: 20px;
+}

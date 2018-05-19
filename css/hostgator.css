@@ -1,0 +1,708 @@
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: red; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+}
+
+#myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+}
+
+.txt a{
+	text-decoration:none;
+	color:red;
+}
+.header{
+	overflow:hidden;
+}
+.logo img{
+	width:250px;
+	margin-left:40px;
+	margin-top:20px;   
+}
+
+.logo{
+	float:left;
+}
+
+.txt{
+    
+    position: absolute;
+    padding-left: 1020px;
+    padding-top: 18px;
+
+    
+}
+.live{
+    position: absolute;
+    float: right;
+    right: 120px;
+    padding-top: 20px;
+}
+
+
+.devices{
+	position: center;
+}
+.slide{
+	position: absolute;
+	right: 430px;
+	top: 230px;
+}
+.highlights{
+	top: 650px;
+	position: absolute;
+	right: 312px;
+	
+}
+
+.highlights h1{
+	font-size: 45pt;
+    color:#3A679D;
+    
+}
+.highlights h2{
+	font-size: 25pt;
+	color: #666666;
+    
+}
+
+h1,h2,h3{
+    color: white;
+
+	font-family: arial,sans-serif;
+}
+
+.highlights h3{
+   text-align: center;
+   color: #666666;
+}	
+
+.dollar{
+	font-size: 20pt;
+	color: #ECA93F;
+}
+.btn{
+	background: #e46000;
+	color:#ffffff;
+	height: 60px;
+	left: 224px;
+	position: absolute;
+	top: 176px;
+	width: 265px;
+	font-size: 20pt;
+}
+.hosting{
+	position: absolute;
+	top: 1030px;
+	left: 136px;
+}
+.hosting h1{
+	font-size: 30pt;
+    color:#3A679D;
+    
+}
+.hosting h2{
+	font-size: 15pt;
+	color: #666666;
+    
+}
+.cloud{
+	background-color: #fff;
+	position: absolute;
+	top: 1200px;
+	height: 390px;
+	width: 241px;
+	font-size: 10pt;
+	line-height: 5px;
+	border-style:solid ;
+	box-sizing: border-box;
+	border-width: 1px; 
+	padding-left: 10px;
+	left: 149px;
+}
+.cloud h2{
+	line-height: 35px;
+    font-size: 20pt;
+   padding-left: 10px;
+   color:#3A679D;
+}
+.cloud p{
+	line-height: 35px;
+    padding-left: 10px;
+    font-size: 15pt;
+    color: #666666;
+}
+.btn2{
+	background: #e46000;
+	color:#ffffff;
+	height: 60px;
+	left: 13px;
+	position: absolute;
+	top: 299px;
+	width: 197px;
+	font-size: 15pt;
+}
+.btn3{
+	background: #e46000;
+	color:#ffffff;
+	height: 60px;
+	left: 13px;
+	position: absolute;
+	top: 299px;
+	width: 197px;
+	font-size: 15pt;
+}
+
+.wordpress{
+	position: absolute;
+	top: 1285px;
+	height: 389px;
+	width: 241px;
+	font-size: 10pt;
+	line-height: 5px;
+	border-style: solid;
+	box-sizing: border-box;
+	border-width: 1px;  
+	padding-left: 10px;
+	left: 407px;
+}
+.wordpress h2{
+	line-height: 35px;
+    font-size: 20pt;
+   padding-left: 10px;
+   color:#3A679D;
+}
+.wordpress p{
+	line-height: 35px;
+    padding-left: 10px;
+    font-size: 15pt;
+    color: #666666;
+}
+
+.vps{
+	position: absolute;
+	top: 1367px;
+	height: 391px;
+	width: 241px;
+	font-size: 10pt;
+	line-height: 5px;
+	border-style: solid;
+	box-sizing: border-box;
+	border-width: 1px;  
+	padding-left: 10px;
+	left: 665px;
+}
+.vps h2{
+	line-height: 35px;
+    font-size: 20pt;
+   padding-left: 10px;
+   color:#3A679D;
+}
+.vps p{
+	line-height: 35px;
+    padding-left: 10px;
+    font-size: 15pt;
+    color: #666666;
+}
+
+
+.btn4{
+	background: #e46000;
+	color:#ffffff;
+	height: 60px;
+	left: 13px;
+	position: absolute;
+	top: 299px;
+	width: 197px;
+	font-size: 15pt;
+}
+
+
+.dedicated{
+	position: absolute;
+	top: 1421px;
+	height: 423px;
+	width: 241px;
+	font-size: 10pt;
+	line-height: 5px;
+	border-style: solid;
+	box-sizing: border-box;
+	border-width: 1px;  
+	padding-left: 10px;
+	left: 922px;
+}
+.dedicated h2{
+	line-height: 35px;
+    font-size: 20pt;
+   padding-left: 10px;
+   color:#3A679D;
+}
+.dedicated p{
+	line-height: 35px;
+    padding-left: 10px;
+    font-size: 15pt;
+    color: #666666;
+}
+
+
+.btn5{
+	background: #e46000;
+	color:#ffffff;
+	height: 60px;
+	left: 17px;
+	position: absolute;
+	top: 333px;
+	width: 197px;
+	font-size: 15pt;
+}
+
+
+
+.choose {
+    left: 396px;
+    position: absolute;
+    top: 1920px;
+
+}
+.choose h1{
+	line-height: 40px;
+	font-size: 32pt;
+	color: #3A679D;
+	padding-left: 105px;
+}
+.choose h2{
+	font-size: 20pt;
+	left: 47px;
+	color:#66667D;
+	
+}
+
+
+.gif {
+    background-image: url("ae-stairs.gif");
+    height:100px;
+    width: 350px;
+    left: 72px;
+    position: absolute;
+    top: 2100px;
+    
+}
+
+
+
+.support {
+    background: #ffffff none repeat scroll 0 0;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    height: 206px;
+    left: 350px;
+    padding: 23px 26px 26px 47px;
+    position: absolute;
+    top: 2170px;
+    width: 763px;
+}
+.support h2{
+	font-size: 20pt;
+	color: #3A679D;
+
+
+}
+.support p{
+	font-size: 15pt;
+}
+
+
+.support2 {
+    background: #ffffff none repeat scroll 0 0;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    height: 206px;
+    left: 135px;
+    padding: 23px 26px 26px 47px;
+    position: absolute;
+    top: 2620px;
+    width: 763px;
+}
+
+.support2 h2{
+	font-size: 20pt;
+	color: #3A679D;
+
+
+
+}
+.support2 p{
+	font-size: 15pt;
+    
+}
+
+.gif2 {
+    
+    left: 830px;
+    position: absolute;
+    top: 2550px;
+    height:100px;
+    width: 350px;
+}
+
+.support3 {
+    background: #ffffff none repeat scroll 0 0;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    height: 206px;
+    left: 300px;
+    padding: 23px 26px 26px 47px;
+    position: absolute;
+    top: 3105px;
+    width: 763px;
+}
+
+
+.support3 h2{
+	font-size: 20pt;
+	color: #3A679D;
+
+
+
+}
+.support3 p{
+	font-size: 15pt;
+    
+}
+
+
+.gif3 {
+    
+    left: 20px;
+    position: absolute;
+    top: 3030px;
+    height:100px;
+    width: 350px;
+}
+
+
+
+.support4 {
+    background: #ffffff none repeat scroll 0 0;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    height: 371px;
+    left: 310px;
+    padding: 23px 26px 26px 47px;
+    position: absolute;
+    top: 3580px;
+    width: 618px;
+}
+
+
+
+
+.support4 h2{
+	line-height: 30px;
+	font-size: 20pt;
+	color: #3A679D;
+}
+.support4 h3{
+	font-size: 15pt;
+    color: #F0A193;
+}
+
+}
+.support4 p{
+	font-size: 10pt;
+    
+}
+
+
+
+.gif4 {
+   
+    left: 800px;
+    position: absolute;
+    top: 3517px;
+    
+}
+
+.award {
+    left: 350px;
+    position: absolute;
+    top: 4100px;
+}
+.award h1{
+	font-size: 30pt;
+	color: #3A679D;
+	padding-left: 25px;
+}
+.award p{
+	font-size: 23pt;
+	
+}
+.img1{
+  position: absolute;
+  left: 58px;
+
+
+}
+.img2{
+	position: absolute;
+	left: 301px;
+	
+}
+.img3{
+	position: absolute;
+	left: 499px;
+	
+}
+
+.link {
+    color: #2a6496;
+    font-size: 28px;
+    left: 174px;
+    position: absolute;
+    top: 405px;
+    text-decoration: underline;
+}
+
+
+.started {
+    background: #0171bc;
+    box-sizing: border-box;
+    height: 100px;
+    left: 0;
+    position: absolute;
+    right: 103px;
+    top: 4700px;
+    width: 1350px;
+}
+.started h1{
+    color: white;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+
+
+
+
+.started p {
+    color: white;
+    font-size: 20px;
+    padding-left: 884px;
+    position: absolute;
+    top: 2px;
+}
+
+.btn6 {
+    background: #e46000 none repeat scroll 0 0;
+    color: #ffffff;
+    font-size: 15pt;
+    height: 60px;
+    left: 1104px;
+    position: absolute;
+    top: 20px;
+    width: 197px;
+}
+.dollar2{
+    color: #eca93f;
+    font-size: 25pt;
+}
+
+
+.links {
+    background: #005695 none repeat scroll 0 0;
+    box-sizing: border-box;
+    height: 400px;
+    left: 0;
+    position: absolute;
+    right: 103px;
+    top: 4800px;
+    width: 1350px;
+
+}
+
+.hst {
+    padding-left: 187px;
+    position: absolute;
+    top: 28px;
+}
+.hst h1{
+	color: white;
+}
+.hst a{
+	line-height: 30px;
+	text-decoration: none;
+	color: #FFCB3C;
+}
+ .hst a:hover{
+	border-bottom: 2px solid #FFCB3C;
+}
+
+.dmn {
+    padding-left: 400px;
+    position: absolute;
+    top: 28px;
+}
+.dmn h1{
+	color: white;
+}
+.dmn a{
+	line-height: 30px;
+	text-decoration: none;
+	color: #FFCB3C;
+}
+ .dmn a:hover{
+	border-bottom: 2px solid #FFCB3C;
+}
+.servs {
+    padding-left: 600px;
+    position: absolute;
+    top: 28px;
+}
+.servs h1{
+	color: white;
+}
+.servs a{
+	line-height: 30px;
+	text-decoration: none;
+	color: #FFCB3C;
+}
+ .servs a:hover{
+	border-bottom: 2px solid #FFCB3C;
+}
+
+.aflt {
+    padding-left: 800px;
+    position: absolute;
+    top: 28px;
+}
+.aflt h1{
+	color: white;
+}
+.aflt a{
+	line-height: 30px;
+	text-decoration: none;
+	color: #FFCB3C;
+}
+.aflt a:hover{
+	border-bottom: 2px solid #FFCB3C;
+}
+
+.company {
+    padding-left: 1000px;
+    position: absolute;
+    top: 28px;
+}
+.company h1{
+	color: white;
+}
+.company a{
+	line-height: 30px;
+	text-decoration: none;
+	color: #FFCB3C;
+}
+ .company a:hover{
+	border-bottom: 2px solid #FFCB3C;
+}
+
+.social {
+    background: #0171bc;
+    box-sizing: border-box;
+    height: 150px;
+    left: 0;
+    position: absolute;
+    right: 103px;
+    bottom:-150px;
+    width: 1350px;
+}
+
+.social p {
+    color: white;
+    padding-left: 84px;
+    padding-top: 80px;
+}
+
+.press {
+    padding-left: 84px;
+    padding-top: 48px;
+    position: absolute;
+
+}
+.press a {
+    text-decoration: none;
+    color: #FFCB3C;
+    font-size: 20px;
+    
+}
+
+.finish {
+    color: black;
+    left: 50px;
+    position: absolute;
+    top: 5367px;
+}
+
+.icon {
+    padding-right: 83px;
+    position: absolute;
+    left: 1010px;
+    top: 59px;
+}
+.icon  a i{
+    float: right;
+    font-size: 51px;
+}
+
+fa-facebook-square::before {
+    content: "";
+    padding-right: 296px;
+}
+.icon2 {
+    padding-right: 90px;
+    position: absolute;
+    left:1100px;
+    top: 59px;
+}
+.icon2  a i{
+    float: right;
+    font-size: 51px;
+}
+.icon3 {
+    padding-right: 90px;
+    position: absolute;
+    left:1200px;
+    top: 59px;
+}
+.icon3  a i{
+    float: right;
+    font-size: 51px;
+}
+.icon4 {
+    padding-right: 90px;
+    position: absolute;
+    left:1270px;
+    top: 59px;
+}
+.icon4  a i{
+    float: right;
+    font-size: 51px;
+}
+.pay{
+    position:absolute;
+    text-align: center;
+    left: 540px;
+    top:70px;
+    color: white;
+}

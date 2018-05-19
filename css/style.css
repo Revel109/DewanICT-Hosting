@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	height:500px;
+
+}
+
+.mainmenu ul {
+	list-style:none;
+	
+}
+.mainmenu ul li{
+	display:inline-block;	
+	margin-left:-4px;
+}
+.mainmenu ul li a{
+	font-size:25px;
+	background:#1ec;	
+	padding:10px 20px;
+	display:block;	
+	text-decoration:none;
+}
+.mainmenu li a:hover{
+	
+	background-color:green;
+	color:white;	
+}
+.mainmenu ul li ul li {
+	margin-left:0px;
+	width:150px;
+}
+
+.mainmenu ul li ul{
+	position:absolute;
+	left:0;
+	top:100%;
+ 	display:none;	 
+}
+
+.mainmenu ul li {
+	position:relative;
+}
+ .mainmenu ul li:hover ul{
+	display:block;
+}
+
+
+
+
+
